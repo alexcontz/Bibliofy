@@ -13,3 +13,14 @@ Bibliofy is a project that i developed alongside my colleague, Nedelcu Alexandru
 - Email Confirmation: Users receive email confirmations for their placed orders, along with details and status of their orders.
 
 These are just a few aspects that the online library "Bibliofy" holds to offer a complete and pleasant experience to its users.
+
+## License
+
+This project is licensed under the GNU General Public License. See the [LICENSE](LICENSE.MD) file for details.  
+
+---
+
+## Contact
+
+Created by **[Contz Alexandru-Ioan](https://github.com/contzalex)**.  
+For questions, suggestions, or support, open an issue in this repository.
